@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Wall
+  - Player Weapon
+  - Enemy
+  - Enemy Weapon
+  - Star
+  - Heart
+  - Diamond
+  - SmallPlatform
+  - Weapon1and4
+  - Weapon2and5
+  - Weapon3and6
+  - Waiting
+  - WeaponToGet
+  - WeaponToLeave
+  - Sound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Ground
+  - Player Weapon
+  - Enemy Weapon
+  - Enemy
+  - Player
+  - Collectable
+  - Path
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Up
+    uniqueID: 2604431459
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Down
+    uniqueID: 3145326263
+    locked: 0
